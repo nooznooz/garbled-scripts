@@ -1,5 +1,5 @@
 # garbled-scripts
-temp folder for random snippets
+temp folder for random raw gemini snippets that are very useless on their own
 
 
 <#
